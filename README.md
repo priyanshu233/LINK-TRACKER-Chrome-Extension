@@ -1,9 +1,18 @@
-# About Chrome extension project
-Leads Tracker can be used to save URL from any website.
-Just visit any URL you wish to save, click on ‘save tab’ button and the URL of your current tab is saved. You can also add a description of your URL using the ‘save input’ button.
-  
-## What you can do with this app:
-•	Fetch and save URL from any site.
-•	100% of the URL are saved on the Leads Tracker.
+The Chrome Link Tracker Extension is a lightweight tool designed to help users track their browsing activities by logging the website links they visit. This extension is perfect for individuals who want to keep a record of websites they frequently visit or for researchers who need to track their browsing history for analysis purposes.
 
-With Lead Tracker, you don’t have to worry about keeping track of important links.
+
+Features
+Automatic Link Logging: Every time you visit a website, the extension automatically logs the URL along with a timestamp.
+Customizable Settings: Users can customize the extension settings to include additional metadata like page titles, visit duration, or custom tags.
+Export Functionality: Export your browsing history to a CSV file for further analysis or record-keeping.
+Privacy Protection: Your data is stored locally on your machine, ensuring your browsing history remains private and secure.
+Simple Interface: The extension offers an intuitive and straightforward user interface for easy navigation and usage.
+
+Contributing
+Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue on the GitHub repository. Pull requests are also encouraged.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Support
+If you encounter any issues or have questions regarding the Chrome Link Tracker Extension, please contactpritanshubansal12@gmail.com
