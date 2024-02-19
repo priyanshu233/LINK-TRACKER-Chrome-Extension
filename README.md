@@ -9,15 +9,22 @@ The Chrome Link Tracker Extension is a lightweight tool designed to help users t
 ## Features
 
 Automatic Link Logging: Every time you visit a website, the extension automatically logs the URL along with a timestamp.
+
 Customizable Settings: Users can customize the extension settings to include additional metadata like page titles, visit duration, or custom tags.
+
 Export Functionality: Export your browsing history to a CSV file for further analysis or record-keeping.
+
 Privacy Protection: Your data is stored locally on your machine, ensuring your browsing history remains private and secure.
+
 Simple Interface: The extension offers an intuitive and straightforward user interface for easy navigation and usage.
 
 ### Usage
 Install the extension from the Chrome Web Store.
+
 Once installed, the extension will start tracking your browsing activities automatically.
+
 Access the extension popup to view your logged links or adjust settings.
+
 Export your browsing history if needed for further analysis or record-keeping.
 
 ### Contributions
